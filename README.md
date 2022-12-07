@@ -17,9 +17,10 @@
 - 圖像處理器：NVIDIA GeForce GTX 1050 Ti (GPU記憶體 12.0 GB：專屬GPU記憶體：4.0GB + 共用GPU記憶體：8.0GB)
 - 記憶體：16384MB RAM
 - 作業系統：Windows 10 家用版 64 位元
-- 虛擬環境：Anaconda
+- 虛擬環境：Anaconda 虛擬環境 (UAV)
 #### 軟體開發套件
 - 程式語言：Python
+- 開發平台：Anaconda - Spyder
 - 軟體套件：PyTorch
 - 深度學習模型：YOLOv5
 
