@@ -60,16 +60,18 @@ python detect.py
 - 過濾重疊框門檻值
 
 ## 重新訓練與結果重現
-### 資料夾結構
-```
-此目錄
-```
+### 前置作業
+1. 下載程式碼
+2. 擺放好訓練資料與測試資料
 ### 重新訓練指令
-
+```
+python train.py
+```
 ### 結果重現指令
 ```
-python3
+python detect.py
 ```
+### 上傳的檔案
 
 ## 參考資料
 - https://github.com/ultralytics/yolov5
