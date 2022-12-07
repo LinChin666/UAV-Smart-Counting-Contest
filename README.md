@@ -60,7 +60,7 @@ python detect.py
 - 過濾重疊框門檻值
 
 ## 重新訓練與結果重現
-### 前置作業
+### 1. 前置作業
 1. 下載程式碼
 2. 擺放好訓練資料與測試資料
 ### 重新訓練指令
@@ -77,3 +77,6 @@ python detect.py
 - https://github.com/ultralytics/yolov5
 - https://medium.com/@_Xing_Chen_/yolov5-%E8%A9%B3%E7%B4%B0%E8%A7%A3%E8%AE%80-724d55ec774
 - https://officeguide.cc/pytorch-yolo-v5-object-egg-detection-models-tutorial-examples/
+- https://yulongtsai.medium.com/object-detection-data-collection-16d551526a33
+
+## 
