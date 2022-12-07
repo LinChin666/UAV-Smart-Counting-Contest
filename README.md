@@ -77,7 +77,8 @@ python train.py
 ```
 python detect.py
 ```
-### 上傳的檔案
+### 最好的檔案
+
 
 ## 參考資料
 - https://github.com/ultralytics/yolov5
