@@ -54,3 +54,8 @@
 ```
 python3
 ```
+
+## 參考資料
+- https://github.com/ultralytics/yolov5
+- https://medium.com/@_Xing_Chen_/yolov5-%E8%A9%B3%E7%B4%B0%E8%A7%A3%E8%AE%80-724d55ec774
+- https://officeguide.cc/pytorch-yolo-v5-object-egg-detection-models-tutorial-examples/
