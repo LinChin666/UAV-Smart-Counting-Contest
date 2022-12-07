@@ -63,12 +63,13 @@ python detect.py
 ### 1. 前置作業
 1. 下載這裡的程式碼並放到工作資料夾
 2. 按照下方方式擺放好訓練資料與測試資料
-
-~ UAV-Smart-Counting-Contest
-~~~~ datasets
-~~~~~~~~ test (1000張照片)
-~~~~~~~~ train (4500張照片)
-~~~~~~~~ val (500張照片)
+```
+UAV-Smart-Counting-Contest
+    datasets
+        test (1000張照片)
+        train (4500張照片)
+        val (500張照片)
+```
 ### 2. 重新訓練方法
 ```
 python train.py
