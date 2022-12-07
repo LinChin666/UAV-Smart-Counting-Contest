@@ -21,8 +21,9 @@
 #### 軟體開發套件
 - 程式語言：Python
 - 開發平台：Anaconda - Spyder
-- 軟體套件：PyTorch
+- 深度學習套件：PyTorch
 - 深度學習模型：YOLOv5
+- 軟體套件：gitpython、ipython、matplotlib、numpy、opencv-python、Pillow、psutil、PyYAML、requests、scipy、thop、torch、torchvision、tqdm、tensorboard、pandas、seaborn
 
 ### 2. 資料處理、重要模塊輸出/輸入
 #### 資料介紹與擴充
