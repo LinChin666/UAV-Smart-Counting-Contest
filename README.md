@@ -12,11 +12,11 @@
 ### 1. 安裝配置環境
 
 #### 硬體環境設置
-- 筆電型號：
+- 筆電型號：MSI GP72 7REX
 - 中央處理器：Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
 - 圖像處理器：NVIDIA GeForce GTX 1050 Ti (GPU記憶體 12.0 GB：專屬GPU記憶體：4.0GB + 共用GPU記憶體：8.0GB)
-- 記憶體：16.0 GB
-- 作業系統：Windows 10
+- 記憶體：16384MB RAM
+- 作業系統：Windows 10 家用版 64 位元
 - 虛擬環境：Anaconda
 #### 軟體開發套件
 - 程式語言：Python
