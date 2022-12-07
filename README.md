@@ -78,7 +78,8 @@ python train.py
 ```
 python detect.py
 ```
-### 最好的檔案
+### 最高分檔案
+https://github.com/LinChin666/UAV-Smart-Counting-Contest/blob/main/%E4%B8%8A%E5%82%B3%E7%9A%84%E6%AA%94%E6%A1%88/%E6%9C%80%E9%AB%98%E5%88%86%E6%AA%94%E6%A1%88.csv
 
 
 ## 參考資料
