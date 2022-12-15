@@ -88,4 +88,36 @@ https://github.com/LinChin666/UAV-Smart-Counting-Contest/blob/main/%E4%B8%8A%E5%
 - https://officeguide.cc/pytorch-yolo-v5-object-egg-detection-models-tutorial-examples/
 - https://yulongtsai.medium.com/object-detection-data-collection-16d551526a33
 
-## 
+## 小物件偵測
+### Tiny Object Detection
+
+* **RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection** [[Paper]](https://arxiv.org/abs/2208.08738) [[Code]](https://github.com/Chasel-Tsui/mmdet-rfla)
+    * Chang Xu, Jinwang Wang, Wen Yang, Huai Yu, Lei Yu, Gui-Song Xia ***ECCV 2022***
+* **Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection** [[Paper]](https://arxiv.org/abs/2203.15266) [[Code]](https://github.com/obss/sahi) [[Weights]](https://github.com/fcakyon/sahi-benchmark)
+    * Fatih Cagatay Akyon, Sinan Onur Altinuc, Alptekin Temizel ***ICIP 2022***
+* **Interactive Multi-Class Tiny-Object Detection** [[Paper]](https://arxiv.org/abs/2203.15266) [[Code]](https://github.com/ChungYi347/Interactive-Multi-Class-Tiny-Object-Detection)
+    * Chunggi Lee, Seonwook Park, Heon Song, Jeongun Ryu, Sanghoon Kim, Haejoon Kim, Sérgio Pereira, Donggeun Yoo ***CVPR 2022***
+* **QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection** [[Paper]](https://arxiv.org/abs/2103.09136) [[Code]](https://github.com/ChenhongyiYang/QueryDet-PyTorch)
+    * Chenhongyi Yang, Zehao Huang, Naiyan Wang ***CVPR 2022***
+* **Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges** [[Paper]](https://arxiv.org/abs/2102.12219)
+    * Jian Ding, Nan Xue, Gui-Song Xia, Xiang Bai, Wen Yang, Micheal Ying Yang, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang ***TPAMI 2021***
+* **MRDet: A Multi-Head Network for Accurate Oriented Object Detection in Aerial Images** [[Paper]](https://arxiv.org/abs/2012.13135)
+    * Ran Qin, Qingjie Liu, Guangshuai Gao, Di Huang, Yunhong Wang ***TGRS 2021***
+* **Attentional Feature Refinement and Alignment Network for Aircraft Detection in SAR Imagery** [[Paper]](https://arxiv.org/abs/2201.07124)
+    * Yan Zhao, Lingjun Zhao, Zhong Liu, Dewen Hu, Gangyao Kuang, Li Liu ***Submitted to TGRS***
+* **A Normalized Gaussian Wasserstein Distance for Tiny Object Detection** [[Paper]](https://arxiv.org/abs/2110.13389)
+    * Jinwang Wang, Chang Xu, Wen Yang, Lei Yu ***arXiv 2021***
+* **Oriented Object Detection in Aerial Images with Box Boundary-Aware Vectors** [[Paper]](https://arxiv.org/abs/2008.07043) [[Code]](https://github.com/yijingru/BBAVectors-Oriented-Object-Detection)
+    * Jingru Yi, Pengxiang Wu, Bo Liu, Qiaoying Huang, Hui Qu, Dimitris Metaxas ***WACV 2021*** 
+* **TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios** [[Paper]](https://arxiv.org/abs/2108.11539)
+    * Xingkui Zhu, Shuchang Lyu, Xu Wang, Qi Zhao ***ICCV Workshop 2021***
+* **Oriented Bounding Boxes for Small and Freely Rotated Objects** [[Paper]](https://arxiv.org/abs/2104.11854)
+    * Mohsen Zand, Ali Etemad, Michael Greenspan ***TGRS 2021***
+* **Learning Calibrated-Guidance for Object Detection in Aerial Images** [[Paper]](https://arxiv.org/abs/2103.11399) [[Code]](https://github.com/WeiZongqi/CG-Net)
+    * Dong Liang, Zongqi Wei, Dong Zhang, Qixiang Geng, Liyan Zhang, Han Sun, Huiyu Zhou, Mingqiang Wei, Pan Gao ***arXiv 2021***
+* **ReDet: A Rotation-equivariant Detector for Aerial Object Detection** [[Paper]](https://arxiv.org/abs/2103.07733) [[Code]](https://github.com/csuhan/ReDet)
+    * Jiaming Han, Jian Ding, Nan Xue, Gui-Song Xia ***CVPR 2021***
+* **Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges** [[Paper]](https://arxiv.org/abs/2102.12219) [[Code]](https://github.com/dingjiansw101/AerialDetection)
+    * Jian Ding, Nan Xue, Gui-Song Xia, Xiang Bai, Wen Yang, Micheal Ying Yang, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang ***arXiv 2021***
+* **Effective Fusion Factor in FPN for Tiny Object Detection** [[Paper]](https://arxiv.org/abs/2011.02298)
+    * Yuqi Gong, Xuehui Yu, Yao Ding, Xiaoke Peng, Jian Zhao, Zhenjun Han ***WACV 2021***
